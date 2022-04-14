@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Little repo of big files!
 
 You can use the [editor on GitHub](https://github.com/TestScriptForBlogs/some-stuff/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
